@@ -1,1 +1,11 @@
+/* src/App.css */
+.app {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
 
+.map-container {
+  margin-top: 60px; /* Adjust for navbar height */
+  height: calc(100vh - 60px);
+}
